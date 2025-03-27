@@ -9,7 +9,7 @@ Empowering startups and freelancers to streamline operations and drive growth wi
 
 ## 🛠️ Technologies & Tools
 
-- **AI & ML**: TensorFlow, PyTorch, Scikit-learn, LangChain
+- **AI & ML**: Python, LLMs, RAG, TensorFlow, PyTorch, Scikit-learn, LangChain
 
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Power BI, Excel
 
